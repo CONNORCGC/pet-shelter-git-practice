@@ -22,3 +22,5 @@ python3 main.py
 ## Features
 
 - TODO: Add features
+
+Temporary training note.
