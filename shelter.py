@@ -27,3 +27,11 @@ class Shelter:
 
     def pet_count(self) -> int:
         return len(self.pets)
+
+    def adopt_pet(self, name: str) -> Pet | None:
+        adopted_pet = self.find_pet(name)
+        if adopted_pet is not None:
+            self.pets.remove(adopted_pet)
+            return adopted_pet
+        else:
+            return None
