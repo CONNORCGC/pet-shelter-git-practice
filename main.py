@@ -1,5 +1,5 @@
 """Run a short demonstration of the pet shelter classes."""
-#THIS IS A TEMPORARY HARMLESS ADDITION
+
 from pet import Pet
 from shelter import Shelter
 
