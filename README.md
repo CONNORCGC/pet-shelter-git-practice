@@ -23,4 +23,5 @@ python3 main.py
 
 - `Senior Pet Detection`: pet.py has functionality to determine whether a pet is a senior.
 - `Pet Counting`: shelter.py has the ability to count the pets currently in the shelter.
-- `Adoption`: shelter.py can now choose a pet to adopt by name, and they will be removed from the shelter.
+- `Adoption`: shelter.py can now choose a pet to adopt by name, and they will be removed from the shelter. This is a line that is meant to conflict with main.
+
