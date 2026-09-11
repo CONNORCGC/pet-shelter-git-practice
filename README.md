@@ -1,6 +1,6 @@
 # Pet Shelter Practice Project
 
-This small Python project models pets and a shelter. It is the starter project for practicing Git and GitHub.
+This project is a copy of the Pet Shelter Practice Project. It is designed to help me understand the general workflow of using Git and GitHub.
 
 ## Files
 
@@ -8,12 +8,17 @@ This small Python project models pets and a shelter. It is the starter project f
 - `shelter.py` defines the `Shelter` class.
 - `main.py` creates sample objects and runs the demonstration.
 
+## Classes
+
+- `Pet` represents a single pet object, which keeps a name, species, and age, along with methods to describe and self-modify the age of the Pet.
+- `Shelter` represents a Shelter object that contains and manages multiple Pet objects, with add, list, and find methods.
+
 ## Run the Project
 
 ```bash
 python3 main.py
 ```
 
-## Student Work
+## Features
 
-Follow the course assignment to improve this README and modify the Python classes. Make small, meaningful commits as you work.
+- TODO: Add features
