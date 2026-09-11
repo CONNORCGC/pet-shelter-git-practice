@@ -21,4 +21,6 @@ python3 main.py
 
 ## Features
 
-- TODO: Add features
+- `Senior Pet Detection`: pet.py has functionality to determine whether a pet is a senior.
+- `Pet Counting`: shelter.py has the ability to count the pets currently in the shelter.
+- `Adoption`: shelter.py can now choose a pet to adopt by name, and they will be removed from the shelter.
